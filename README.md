@@ -94,8 +94,8 @@ AI-GYM-Trainer/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/asifkhan2303/AI-GYM-Trainer.git
-cd AI-GYM-Trainer
+git clone https://github.com/asifkhan2303/Realtime-AI-GYM-Trainer-main
+cd Realtime-AI-GYM-Trainer-main
 ```
 
 ---
